@@ -147,15 +147,15 @@ def team():
     }
 
     team_data = {
-        "director": {
-            "title": "Project Director",
-            "icon": "fa-suitcase",
-            "members": [{"name": "Zexc", "subtitle": "A.K.A. zex", "description": ""}],
-        },
         "board": {
             "title": "Board members",
             "icon": "fa-crown",
             "members": [
+                {
+                    "name": "Zexc",
+                    "subtitle": "A.K.A. zex",
+                    "description": "Former project director.",
+                },
                 {
                     "name": "Foxbright",
                     "subtitle": "A.K.A. rustydustyfox",
