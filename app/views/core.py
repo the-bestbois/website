@@ -181,11 +181,6 @@ def team():
                     "description": "",
                 },
                 {
-                    "name": "Journey",
-                    "subtitle": "A.K.A. rhayutheavali",
-                    "description": "",
-                },
-                {
                     "name": "WBGaming",
                     "subtitle": "",
                     "description": "<i>\"Why are you in every team?\"<br>- Demi</i>",
@@ -215,26 +210,6 @@ def team():
                     "name": "Demirramon",
                     "subtitle": "",
                     "description": "Always fashionably late. On purpose, of course.<br><i>Source: trust me bro.</i>",
-                },
-                {
-                    "name": "Asper Fel'Ok",
-                    "subtitle": "A.K.A. theautisticdragon",
-                    "description": "",
-                },
-                {
-                    "name": "Banshee",
-                    "subtitle": "A.K.A. empressbanshee407",
-                    "description": "",
-                },
-                {
-                    "name": "TΛKӨDΛ☥",
-                    "subtitle": "A.K.A. dragonicankh",
-                    "description": "",
-                },
-                {
-                    "name": "Journey",
-                    "subtitle": "A.K.A. rhayutheavali",
-                    "description": "",
                 },
             ],
         },
