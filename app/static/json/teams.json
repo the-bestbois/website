@@ -149,7 +149,7 @@
     "board": {
         "title": "Board members",
         "icon": "fa-balance-scale",
-		"desc" : "Takes requests from team leads and the community and votes on them to ensure the outcome is the best for all.",
+		"desc" : "Takes requests from team leads and the community to vote on them and ensure the best outcome for all.",
         "members": [
             {
                 "name": "Zexc",
@@ -159,7 +159,7 @@
             {
                 "name": "Foxbright",
                 "subtitle": "A.K.A. rustydustyfox",
-                "description": "Former project director."
+                "description": "Bestboi Project founder."
             },
             {"name": "WBGaming", "subtitle": "", "description": ""},
             {"name": "Myaggu", "subtitle": "A.K.A. myaggic", "description": ""},
