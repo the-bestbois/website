@@ -21,7 +21,7 @@
     },
     "moderation": {
         "title": "Moderators",
-        "icon": "fa-balance-scale",
+        "icon": "fa-shield-alt",
         "members": [
             {
                 "name": "Cobra Witch",
@@ -144,7 +144,7 @@
     },
     "board": {
         "title": "Board members",
-        "icon": "fa-crown",
+        "icon": "fa-balance-scale",
         "members": [
             {
                 "name": "Zexc",
