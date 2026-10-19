@@ -1,25 +1,21 @@
 {
-    "board": {
-        "title": "Board members",
-        "icon": "fa-crown",
+    "events": {
+        "title": "Event hosts",
+        "icon": "fa-users",
         "members": [
+            {"name": "koslie", "subtitle": "Events team lead", "description": ""},
+            {"name": "Rulfam", "subtitle": "", "description": ""},
+            {"name": "Eevibow", "subtitle": "", "description": ""},
+            {"name": "Cobra Witch", "subtitle": "", "description": ""},
             {
-                "name": "Zexc",
-                "subtitle": "A.K.A. zex",
-                "description": "Former project director."
-            },
-            {
-                "name": "Foxbright",
-                "subtitle": "A.K.A. rustydustyfox",
-                "description": "Former project director."
-            },
-            {"name": "WBGaming", "subtitle": "", "description": ""},
-            {"name": "Myaggu", "subtitle": "A.K.A. myaggic", "description": ""},
-            {"name": "Demirramon", "subtitle": "", "description": ""},
-            {
-                "name": "koslie",
+                "name": "Samurai",
                 "subtitle": "",
-                "description": "\"Stop capitalizing my name!!\""
+                "description": "Unfortunately, born and raised on a small island known as the UK."
+            },
+            {
+                "name": "Demirramon",
+                "subtitle": "",
+                "description": "Always fashionably late. On purpose, of course.<br><i>Source: trust me bro.</i>"
             }
         ]
     },
@@ -43,26 +39,6 @@
                 "description": "\"Stop capitalizing my name!!\""
             },
             {"name": "Demirramon", "subtitle": "", "description": ""}
-        ]
-    },
-    "events": {
-        "title": "Event hosts",
-        "icon": "fa-users",
-        "members": [
-            {"name": "koslie", "subtitle": "Events team lead", "description": ""},
-            {"name": "Rulfam", "subtitle": "", "description": ""},
-            {"name": "Eevibow", "subtitle": "", "description": ""},
-            {"name": "Cobra Witch", "subtitle": "", "description": ""},
-            {
-                "name": "Samurai",
-                "subtitle": "",
-                "description": "Unfortunately, born and raised on a small island known as the UK."
-            },
-            {
-                "name": "Demirramon",
-                "subtitle": "",
-                "description": "Always fashionably late. On purpose, of course.<br><i>Source: trust me bro.</i>"
-            }
         ]
     },
     "art": {
@@ -163,6 +139,30 @@
                 "name": "Thekibblemeister",
                 "subtitle": "3D modeler & texture artist",
                 "description": "Creator of the OG Bestboi model (classic).<br>Lead the original Bestboi community from its creation on 2017 to early 2018. He then retired and allowed the community to split and choose their own leaders."
+            }
+        ]
+    },
+    "board": {
+        "title": "Board members",
+        "icon": "fa-crown",
+        "members": [
+            {
+                "name": "Zexc",
+                "subtitle": "A.K.A. zex",
+                "description": "Former project director."
+            },
+            {
+                "name": "Foxbright",
+                "subtitle": "A.K.A. rustydustyfox",
+                "description": "Former project director."
+            },
+            {"name": "WBGaming", "subtitle": "", "description": ""},
+            {"name": "Myaggu", "subtitle": "A.K.A. myaggic", "description": ""},
+            {"name": "Demirramon", "subtitle": "", "description": ""},
+            {
+                "name": "koslie",
+                "subtitle": "",
+                "description": "\"Stop capitalizing my name!!\""
             }
         ]
     },
