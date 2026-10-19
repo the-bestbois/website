@@ -28,6 +28,7 @@
     {% for team, team_data in teams.items() %}
         <section class="team-title" id="team-{{ team }}">
             <h4>{{ team_data.title }}</h4>
+			<p>{{ team_data.desc }}</p>
         </section>
         <section class="team-card-container team-members-{{ team }} mbr-parallax-background scroll-up-on-enter">
             <div class="mbr-overlay"

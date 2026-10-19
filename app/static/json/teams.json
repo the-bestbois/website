@@ -2,6 +2,7 @@
     "events": {
         "title": "Event hosts",
         "icon": "fa-users",
+		"desc" : "Plan, host, and supervise community activities and VRChat meetups.",
         "members": [
             {"name": "koslie", "subtitle": "Events team lead", "description": ""},
             {"name": "Rulfam", "subtitle": "", "description": ""},
@@ -22,6 +23,7 @@
     "moderation": {
         "title": "Moderators",
         "icon": "fa-shield-alt",
+		"desc" : "Enforce the rules and keep the peace in our Discord server and events.",
         "members": [
             {
                 "name": "Cobra Witch",
@@ -44,6 +46,7 @@
     "art": {
         "title": "Art team",
         "icon": "fa-object-group",
+		"desc" : "In charge of the official art, stories, worlds, and models provided to the community.",
         "members": [
             {
                 "name": "WBGaming",
@@ -69,6 +72,7 @@
     "former-3d-artists": {
         "title": "Former 3D artists",
         "icon": "socicon-sketchfab",
+		"desc" : "Artists who took part in the making of our 3D models in the past.",
         "members": [
             {
                 "name": "MaitakeShiba",
@@ -145,6 +149,7 @@
     "board": {
         "title": "Board members",
         "icon": "fa-balance-scale",
+		"desc" : "Takes requests from team leads and the community and votes on them to ensure the outcome is the best for all.",
         "members": [
             {
                 "name": "Zexc",
@@ -169,6 +174,7 @@
     "website": {
         "title": "Website developers & maintainers",
         "icon": "mbrib-sites",
+		"desc" : "In charge of keeping this site running and improving it.",
         "members": [
             {
                 "name": "Julian",
