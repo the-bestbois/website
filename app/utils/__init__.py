@@ -1,3 +1,3 @@
-from . import time
+from . import static_files, time
 
-__all__ = ['time']
+__all__ = ['static_files', 'time']

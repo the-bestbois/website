@@ -1,13 +1,18 @@
-import json
-import os
-
+from http import HTTPStatus
 from typing import Optional
 
-from flask import Blueprint, redirect, render_template, request, session, url_for
+from flask import (
+    Blueprint,
+    redirect,
+    render_template,
+    request,
+    session,
+    url_for,
+)
+
+from app.utils.static_files import load_static_json
 
 bp = Blueprint('core', __name__)
-
-# TODO: add Makers page
 
 
 @bp.route('/')
@@ -22,40 +27,19 @@ def lore():
 
 @bp.route('/team')
 def team():
-
-    social_icons = {
-        "website": "socicon-internet",
-        "twitter": "socicon-twitter",
-        "tumblr": "socicon-tumblr",
-        "mastodon": "socicon-mastodon",
-        "youtube": "socicon-youtube",
-        "sketchfab": "socicon-sketchfab",
-        "deviantart": "socicon-deviantart",
-        "flag": "flag-icon-nl flag-icon",
+    page_data = {
+        'users': load_static_json('users.json'),
+        'teams': load_static_json('teams.json'),
+        'socicons': load_static_json('socicons.json'),
     }
 
-    user_data = []
-    team_data = []
-
-    with open(
-        os.path.join(os.path.dirname(__file__), "../static/json/users.json"), 'r'
-    ) as file:
-        user_data = json.loads(file.read())
-
-    with open(
-        os.path.join(os.path.dirname(__file__), "../static/json/teams.json"), 'r'
-    ) as file:
-        team_data = json.loads(file.read())
-
-    return render_template(
-        'team.html.jinja', teams=team_data, users=user_data, socicons=social_icons
-    )
+    return render_template('team.html.jinja', **page_data)
 
 
 @bp.route('/418')
-@bp.app_errorhandler(418)
+@bp.app_errorhandler(HTTPStatus.IM_A_TEAPOT)
 def im_a_teapot(_error: Optional[Exception] = None):
-    return render_template('errors/418.html.jinja'), 418
+    return render_template('errors/418.html.jinja'), HTTPStatus.IM_A_TEAPOT
 
 
 @bp.route('/set-lang/<locale>')

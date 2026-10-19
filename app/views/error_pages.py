@@ -1,12 +1,14 @@
+from http import HTTPStatus
+
 from flask import Blueprint, render_template
 from jinja2 import TemplateNotFound
 
 bp = Blueprint('error_pages', __name__)
 
 
-@bp.app_errorhandler(404)
-@bp.app_errorhandler(418)
-@bp.app_errorhandler(500)
+@bp.app_errorhandler(HTTPStatus.NOT_FOUND)
+@bp.app_errorhandler(HTTPStatus.IM_A_TEAPOT)
+@bp.app_errorhandler(HTTPStatus.INTERNAL_SERVER_ERROR)
 def not_found(error):
     code = error.code
     try:
