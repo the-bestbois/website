@@ -1,0 +1,285 @@
+{
+    "Zexc": {
+        "avatar": {
+            "url": "zexc.png"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://x.com/ZexisZexc"
+            }
+        ]
+    },
+    "Foxbright": {
+        "avatar": {
+            "url": "rustydustyfox.png",
+            "background-position": "50% 35%"
+        },
+        "links": []
+    },
+    "WBGaming": {
+        "avatar": {
+            "url": "wbgaming.jpg",
+            "background-position": "50% 45%"
+        },
+        "links": []
+    },
+    "Myaggu": {
+        "avatar": {
+            "url": "myaggic.png"
+        },
+        "links": []
+    },
+    "Demirramon": {
+        "avatar": {
+            "url": "demirramon.jpg",
+            "background-position": "28% 28%"
+        },
+        "links": [
+            {
+                "type": "website",
+                "url": "https://demirramon.com/about"
+            },
+            {
+                "type": "mastodon",
+                "url": "https://cyberfurz.social/@demirramon"
+            },
+            {
+                "type": "youtube",
+                "url": "https://www.youtube.com/@demirramon"
+            }
+        ]
+    },
+    "koslie": {
+        "avatar": {
+            "url": "koslie.png",
+            "background-position": "50% 15%"
+        },
+        "links": [
+            {
+                "type": "website",
+                "url": "https://eoiasrt.com/"
+            },
+            {
+                "type": "youtube",
+                "url": "https://www.youtube.com/channel/UC0DVuxuG-3Db8EYhjf88jWg"
+            }
+        ]
+    },
+    "Cobra Witch": {
+        "avatar": {
+            "url": "cobrawitch.jpg"
+        },
+        "links": []
+    },
+    "Journey": {
+        "avatar": {
+            "url": "journey.jpg"
+        },
+        "links": []
+    },
+    "Rulfam": {
+        "avatar": {
+            "url": "rulfam.png"
+        },
+        "links": []
+    },
+    "Eevibow": {
+        "avatar": {
+            "url": "eevibow.png"
+        },
+        "links": []
+    },
+    "Samurai": {
+        "avatar": {
+            "url": "samurai.png"
+        },
+        "links": []
+    },
+    "Asper Fel'Ok": {
+        "avatar": {
+            "url": "theautisticdragon.png"
+        },
+        "links": []
+    },
+    "Banshee": {
+        "avatar": {
+            "url": "banshee.png"
+        },
+        "links": []
+    },
+    "TΛKӨDΛ☥": {
+        "avatar": {
+            "url": "dragonicankh.webp"
+        },
+        "links": []
+    },
+    "Marz": {
+        "avatar": {
+            "url": "youseamarz.png",
+            "background-position": "50% 28%"
+        },
+        "links": []
+    },
+    "MaitakeShiba": {
+        "avatar": {
+            "url": "maitake.jpg"
+        },
+        "links": []
+    },
+    "Timo": {
+        "avatar": {
+            "url": "timo.png"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/spicypolys"
+            }
+        ]
+    },
+    "Whouse": {
+        "avatar": {
+            "url": "whouse.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/kouji_shimazu"
+            }
+        ]
+    },
+    "Cyphiegorawr": {
+        "avatar": {
+            "url": "cyphiegorawr.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://cyphiegorawr.gumroad.com/"
+            }
+        ]
+    },
+    "Pammematth": {
+        "avatar": {
+            "url": "pammematth.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/DJBassFox28"
+            }
+        ]
+    },
+    "Orze": {
+        "avatar": {
+            "url": "orze.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/orzeeee"
+            }
+        ]
+    },
+    "VictonRoy": {
+        "avatar": {
+            "url": "victonroy.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/RoyVicton"
+            }
+        ]
+    },
+    "Pelmeow": {
+        "avatar": {
+            "url": "pelmeow.jpg"
+        },
+        "links": [
+            {
+                "type": "tumblr",
+                "url": "https://colatastic.tumblr.com/"
+            }
+        ]
+    },
+    "DeliriousJax": {
+        "avatar": {
+            "url": "deliriousjax.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/deliriousjax"
+            }
+        ]
+    },
+    "Wiah": {
+        "avatar": {
+            "url": "wiah.png"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/YanWiah"
+            }
+        ]
+    },
+    "Dyze": {
+        "avatar": {
+            "url": "dyze.png"
+        },
+        "links": [
+            {
+                "type": "sketchfab",
+                "url": "https://sketchfab.com/Dyze"
+            }
+        ]
+    },
+    "Über Winfrey": {
+        "avatar": {
+            "url": "uber_winfrey.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/Uber_Winfrey"
+            }
+        ]
+    },
+    "Rezillo Ryker": {
+        "avatar": {
+            "url": "rezillo_ryker.jpg"
+        },
+        "links": [
+            {
+                "type": "twitter",
+                "url": "https://twitter.com/RezilloArt"
+            }
+        ]
+    },
+    "Thekibblemeister": {
+        "avatar": {
+            "url": "thekibblemeister.png"
+        },
+        "links": [
+            {
+                "type": "deviantart",
+                "url": "https://www.deviantart.com/thekibblemeister"
+            }
+        ]
+    },
+    "Julian": {
+        "avatar": {
+            "url": "julian.png",
+            "background-position": "25% 70%"
+        },
+        "links": [
+            {
+                "type": "flag",
+                "url": "/418"
+            }
+        ]
+    }
+}
