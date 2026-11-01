@@ -3,6 +3,8 @@ from http import HTTPStatus
 from flask import Blueprint, abort, render_template
 from jinja2 import TemplateNotFound
 
+from app.utils.static_files import load_static_json
+
 # from .avatar_data import AVATAR_DATA
 
 bp = Blueprint('content', __name__)
@@ -15,7 +17,8 @@ def worlds():
 
 @bp.route('/models/')
 def models():
-    return render_template('models.html.jinja')
+    page_data = {'models': load_static_json('models.json')}
+    return render_template('models.html.jinja', **page_data)
 
 
 @bp.route('/models/<avatar_type>')

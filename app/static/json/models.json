@@ -1,0 +1,38 @@
+{
+	"kemono": {
+		"name": "Bestboi Kemono",
+		"thumbnail": "img/models/kemono/thumbnail.png",
+		"description": "The newest of the bunch, a cute <b>kemono</b>-styled bestboi!",
+		"release_date": "13 DEC 2025"
+	},
+	"chibi": {
+		"name": "Bestboi Chibi",
+		"thumbnail": "img/models/chibi/thumbnail.png",
+		"description": "The bestboi we all love, now in a cute <b>chibi</b> and polished style!",
+		"release_date": "2 JUN 2021"
+	},
+	"hd": {
+		"name": "Bestboi HD",
+		"thumbnail": "img/models/hd/thumbnail.png",
+		"description": "The third model to join the club! Bestbois in ✨<b>HD</b>✨",
+		"release_date": "19 AUG 2020"
+	},
+	"toon": {
+		"name": "Bestboi Toon",
+		"thumbnail": "img/models/toon/thumbnail.png",
+		"description": "Toonier then ever, presenting to you: The <b>Toon</b> Boi!",
+		"release_date": "2 AUG 2020 ??"
+	},
+	"classic": {
+		"name": "Bestboi Classic",
+		"thumbnail": "img/models/classic/thumbnail.png",
+		"description": "The model it all began with, the first of 'em!",
+		"release_date": "2018"
+	},
+	"lowpoly": {
+		"name": "Bestboi Low-poly",
+		"thumbnail": "img/models/lowpoly/thumbnail.png",
+		"description": "A <b>low-poly</b> and fully quest-compatible VRChat model in a classic style reminiscent of old video games.",
+		"release_date": "7 JAN 2021"
+	}
+}
