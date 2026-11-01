@@ -1,196 +1,239 @@
 {
-    "events": {
-        "title": "Event hosts",
-        "icon": "fa-users",
-		"desc" : "Plan, host, and supervise community activities and VRChat meetups.",
-        "members": [
-            {"name": "koslie", "subtitle": "Events team lead", "description": ""},
-            {"name": "Rulfam", "subtitle": "", "description": ""},
-            {"name": "Eevibow", "subtitle": "", "description": ""},
-            {"name": "Cobra Witch", "subtitle": "", "description": ""},
-            {
-                "name": "Samurai",
-                "subtitle": "",
-                "description": "Unfortunately, born and raised on a small island known as the UK."
-            },
-            {
-                "name": "Demirramon",
-                "subtitle": "",
-                "description": "Always fashionably late. On purpose, of course.<br><i>Source: trust me bro.</i>"
-            }
-        ]
-    },
-    "moderation": {
-        "title": "Moderators",
-        "icon": "fa-shield-alt",
-		"desc" : "Enforce the rules and keep the peace in our Discord server and events.",
-        "members": [
-            {
-                "name": "Cobra Witch",
-                "subtitle": "Moderation team lead",
-                "description": ""
-            },
-            {
-                "name": "WBGaming",
-                "subtitle": "",
-                "description": "<i>\"Why are you in every team?\"<br>- Demi</i>"
-            },
-            {
-                "name": "koslie",
-                "subtitle": "",
-                "description": "\"Stop capitalizing my name!!\""
-            },
-            {"name": "Demirramon", "subtitle": "", "description": ""}
-        ]
-    },
-    "art": {
-        "title": "Art team",
-        "icon": "fa-object-group",
-		"desc" : "In charge of the official art, stories, worlds, and models provided to the community.",
-        "members": [
-            {
-                "name": "WBGaming",
-                "subtitle": "Art team lead",
-                "description": "Worked on HD updates and made the Quest version."
-            },
-            {"name": "koslie", "subtitle": "", "description": ""},
-            {"name": "Marz", "subtitle": "A.K.A. youseamarz", "description": ""},
-            {
-                "name": "Foxbright",
-                "subtitle": "A.K.A. rustydustyfox",
-                "description": "Made many textures for public bestboi avatars."
-            },
-            {
-                "name": "Demirramon",
-                "subtitle": "3D modeler & texture artist, VRCSDK specialist",
-                "description": "Did the initial Avatars 3.0 setup for the Bestboi HD, Toon, and Classic."
-            },
-            {"name": "Eevibow", "subtitle": "", "description": ""},
-            {"name": "Cobra Witch", "subtitle": "", "description": ""}
-        ]
-    },
-    "former-3d-artists": {
-        "title": "Former 3D artists",
-        "icon": "socicon-sketchfab",
-		"desc" : "Artists who took part in the making of our 3D models in the past.",
-        "members": [
-            {
-                "name": "MaitakeShiba",
-                "subtitle": "3D modeler & texture artist",
-                "description": "Main modeler responsible for the Chibi and Kemono models."
-            },
-            {
-                "name": "Timo",
-                "subtitle": "3D modeler",
-                "description": "Main modeler for the Bestboi HD Edition."
-            },
-            {
-                "name": "Whouse",
-                "subtitle": "3D modeler & rigging specialist",
-                "description": "Helped do rigging for bestboi HD, as well as custom blendshapes."
-            },
-            {
-                "name": "Cyphiegorawr",
-                "subtitle": "3D modeler",
-                "description": "Made the 3.8 update for the Bestboi Toon model."
-            },
-            {
-                "name": "Pammematth",
-                "subtitle": "Rigging Specialist",
-                "description": "Made the rig for the first version of the Bestboi Toon model."
-            },
-            {
-                "name": "Orze",
-                "subtitle": "Texture Artist",
-                "description": "Base Texture artist for the Bestboi HD Edition."
-            },
-            {
-                "name": "VictonRoy",
-                "subtitle": "3D modeler",
-                "description": "Responsible for the Bestboi Classic Update, as well as the Dutchie edit."
-            },
-            {
-                "name": "Pelmeow",
-                "subtitle": "3D modeler & texture Artist",
-                "description": "Created the original sculpt and textures for the first version of the Bestboi Toon."
-            },
-            {
-                "name": "DeliriousJax",
-                "subtitle": "3D modeler",
-                "description": "Made the v3 update for the Toon Bestboi."
-            },
-            {
-                "name": "Wiah",
-                "subtitle": "3D modeler",
-                "description": "Created the Sculpt for the Bestboi HD edition"
-            },
-            {
-                "name": "Dyze",
-                "subtitle": "3D modeler & texture artist",
-                "description": "Created the Bestboi Staff outfits, as well as the winter outfit and many yet unreleased outfits."
-            },
-            {
-                "name": "Über Winfrey",
-                "subtitle": "3D modeler & texture artist",
-                "description": "Created the Bestboi HD Hoodie outfit alongsite other outfits still in the works."
-            },
-            {
-                "name": "Rezillo Ryker",
-                "subtitle": "3D modeler.",
-                "description": "Assisted with the creation of the Bestboi HD edition."
-            },
-            {
-                "name": "Thekibblemeister",
-                "subtitle": "3D modeler & texture artist",
-                "description": "Creator of the OG Bestboi model (classic).<br>Lead the original Bestboi community from its creation on 2017 to early 2018. He then retired and allowed the community to split and choose their own leaders."
-            }
-        ]
-    },
-    "board": {
-        "title": "Board members",
-        "icon": "fa-balance-scale",
-		"desc" : "Takes requests from team leads and the community to vote on them and ensure the best outcome for all.",
-        "members": [
-            {
-                "name": "Zexc",
-                "subtitle": "A.K.A. zex",
-                "description": "Former project director."
-            },
-            {
-                "name": "Foxbright",
-                "subtitle": "A.K.A. rustydustyfox",
-                "description": "Bestboi Project founder."
-            },
-            {"name": "WBGaming", "subtitle": "", "description": ""},
-            {"name": "Myaggu", "subtitle": "A.K.A. myaggic", "description": ""},
-            {"name": "Demirramon", "subtitle": "", "description": ""},
-            {
-                "name": "koslie",
-                "subtitle": "",
-                "description": "\"Stop capitalizing my name!!\""
-            }
-        ]
-    },
-    "website": {
-        "title": "Website developers & maintainers",
-        "icon": "mbrib-sites",
-		"desc" : "In charge of keeping this site running and improving it.",
-        "members": [
-            {
-                "name": "Julian",
-                "subtitle": "Website creator & restoration assistant",
-                "description": "Just some 23 yo makin games and making free websites. mainly uses C#, Udon Graph, and some bash if im working in Linux.<br><br>Designed and created the website. For issues you can contact me on discord at <b>ryderuwu</b>"
-            },
-            {
-                "name": "Rulfam",
-                "subtitle": "Website maintainer",
-                "description": "<i>\"Why do you look so gay?\"<br>- Samurai</i>"
-            },
-            {
-                "name": "Demirramon",
-                "subtitle": "Website maintainer",
-                "description": "<i>\"Why are you in every team?\"<br>- Koslie</i>"
-            }
-        ]
-    }
+	"events": {
+		"title": "Event hosts",
+		"icon": "fa-users",
+		"desc": "Plan, host, and supervise community activities and VRChat meetups.",
+		"members": [
+			{
+				"name": "Demirramon",
+				"subtitle": "EU events team lead",
+				"description": "Always fashionably late. On purpose, of course.<br><i>Source: trust me bro.</i>"
+			},
+			{
+				"name": "koslie",
+				"subtitle": "US events team lead",
+				"description": "\"Stop capitalizing my name!!\""
+			},
+			{
+				"name": "Samurai",
+				"subtitle": "",
+				"description": "Unfortunately, born and raised on a small island known as the UK."
+			},
+			{
+				"name": "Rulfam",
+				"subtitle": "",
+				"description": ""
+			},
+			{
+				"name": "Eevibow",
+				"subtitle": "",
+				"description": ""
+			},
+			{
+				"name": "Cobra Witch",
+				"subtitle": "",
+				"description": ""
+			}
+		]
+	},
+	"moderation": {
+		"title": "Moderators",
+		"icon": "fa-shield-alt",
+		"desc": "Enforce the rules and keep the peace in our Discord server and events.",
+		"members": [
+			{
+				"name": "Cobra Witch",
+				"subtitle": "Moderation team lead",
+				"description": ""
+			},
+			{
+				"name": "WBGaming",
+				"subtitle": "",
+				"description": ""
+			}
+		]
+	},
+	"art": {
+		"title": "Art team",
+		"icon": "fa-paint-brush",
+		"desc": "In charge of the official art, stories, worlds, and models provided to the community.",
+		"members": [
+			{
+				"name": "Eevibow",
+				"subtitle": "Art team lead",
+				"description": ""
+			},
+			{
+				"name": "WBGaming",
+				"subtitle": "",
+				"description": "Worked on HD updates and made the Quest version."
+			},
+			{
+				"name": "koslie",
+				"subtitle": "",
+				"description": ""
+			},
+			{
+				"name": "Marz",
+				"subtitle": "A.K.A. youseamarz",
+				"description": ""
+			},
+			{
+				"name": "Foxbright",
+				"subtitle": "A.K.A. rustydustyfox",
+				"description": "Made many textures for public bestboi avatars."
+			},
+			{
+				"name": "Cobra Witch",
+				"subtitle": "",
+				"description": ""
+			}
+		]
+	},
+	"tech": {
+		"title": "Tech team",
+		"icon": "mbrib-rocket",
+		"desc": "In charge of tech-related projects.",
+		"members": [
+			{
+				"name": "WBGaming",
+				"subtitle": "Tech team lead",
+				"description": "Boi of Justice's dad."
+			},
+			{
+				"name": "Julian",
+				"subtitle": "Website creator & restoration assistant",
+				"description": "Just some 23 yo makin games and making free websites. mainly uses C#, Udon Graph, and some bash if im working in Linux.<br><br>Designed and created the website. For issues you can contact me on discord at <b>ryderuwu</b>"
+			},
+			{
+				"name": "Rulfam",
+				"subtitle": "Website maintainer",
+				"description": "<i>\"Why do you look so gay?\"<br>- Samurai</i>"
+			},
+			{
+				"name": "Demirramon",
+				"subtitle": "Website and Unity package maintainer.",
+				"description": ""
+			}
+		]
+	},
+	"board": {
+		"title": "The Board",
+		"icon": "fa-balance-scale",
+		"desc": "Takes requests from team leads and the community to vote on them and ensure the best outcome for all.",
+		"members": [
+			{
+				"name": "Zexc",
+				"subtitle": "A.K.A. zex",
+				"description": "Former project director."
+			},
+			{
+				"name": "Foxbright",
+				"subtitle": "A.K.A. rustydustyfox",
+				"description": "Bestboi Project founder."
+			},
+			{
+				"name": "WBGaming",
+				"subtitle": "",
+				"description": ""
+			},
+			{
+				"name": "Myaggu",
+				"subtitle": "A.K.A. myaggic",
+				"description": ""
+			},
+			{
+				"name": "Demirramon",
+				"subtitle": "",
+				"description": ""
+			},
+			{
+				"name": "koslie",
+				"subtitle": "",
+				"description": "\"Stop capitalizing my name!!\""
+			},
+			{
+				"name": "Cobra Witch",
+				"subtitle": "",
+				"description": ""
+			}
+		]
+	},
+	"former-3d-artists": {
+		"title": "Former 3D artists",
+		"icon": "socicon-sketchfab",
+		"desc": "Artists who took part in the making of our 3D models in the past.",
+		"members": [
+			{
+				"name": "MaitakeShiba",
+				"subtitle": "3D modeler & texture artist",
+				"description": "Main modeler responsible for the Chibi and Kemono models."
+			},
+			{
+				"name": "Timo",
+				"subtitle": "3D modeler",
+				"description": "Main modeler for the Bestboi HD Edition."
+			},
+			{
+				"name": "Whouse",
+				"subtitle": "3D modeler & rigging specialist",
+				"description": "Helped do rigging for bestboi HD, as well as custom blendshapes."
+			},
+			{
+				"name": "Cyphiegorawr",
+				"subtitle": "3D modeler",
+				"description": "Made the 3.8 update for the Bestboi Toon model."
+			},
+			{
+				"name": "Pammematth",
+				"subtitle": "Rigging Specialist",
+				"description": "Made the rig for the first version of the Bestboi Toon model."
+			},
+			{
+				"name": "Orze",
+				"subtitle": "Texture Artist",
+				"description": "Base Texture artist for the Bestboi HD Edition."
+			},
+			{
+				"name": "VictonRoy",
+				"subtitle": "3D modeler",
+				"description": "Responsible for the Bestboi Classic Update, as well as the Dutchie edit."
+			},
+			{
+				"name": "Pelmeow",
+				"subtitle": "3D modeler & texture Artist",
+				"description": "Created the original sculpt and textures for the first version of the Bestboi Toon."
+			},
+			{
+				"name": "DeliriousJax",
+				"subtitle": "3D modeler",
+				"description": "Made the v3 update for the Toon Bestboi."
+			},
+			{
+				"name": "Wiah",
+				"subtitle": "3D modeler",
+				"description": "Created the Sculpt for the Bestboi HD edition"
+			},
+			{
+				"name": "Dyze",
+				"subtitle": "3D modeler & texture artist",
+				"description": "Created the Bestboi Staff outfits, as well as the winter outfit and many yet unreleased outfits."
+			},
+			{
+				"name": "Über Winfrey",
+				"subtitle": "3D modeler & texture artist",
+				"description": "Created the Bestboi HD Hoodie outfit alongsite other outfits still in the works."
+			},
+			{
+				"name": "Rezillo Ryker",
+				"subtitle": "3D modeler.",
+				"description": "Assisted with the creation of the Bestboi HD edition."
+			},
+			{
+				"name": "Thekibblemeister",
+				"subtitle": "3D modeler & texture artist",
+				"description": "Creator of the OG Bestboi model (classic).<br>Lead the original Bestboi community from its creation on 2017 to early 2018. He then retired and allowed the community to split and choose their own leaders."
+			}
+		]
+	}
 }
