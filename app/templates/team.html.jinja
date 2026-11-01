@@ -36,7 +36,7 @@
                         background-color: rgb(35, 35, 35)"></div>
             <div class="container">
                 {% for member in team_data.members %}
-                    <div class="card">
+					<div class="card{% if 'lead' in member %} team-lead{% endif %}">
                         <div class="image-wrapper scroll-up-on-enter"
                              style="background-image: url('{{ url_for("static", filename="img/team/" + users[member.name].avatar.url) }}');
                                     {% if "background-position" in users[member.name].avatar %} background-position: {{ users[member.name].avatar["background-position"] }};

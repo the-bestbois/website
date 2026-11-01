@@ -7,12 +7,14 @@
 			{
 				"name": "Demirramon",
 				"subtitle": "EU events team lead",
-				"description": "Always fashionably late. On purpose, of course.<br><i>Source: trust me bro.</i>"
+				"description": "Always fashionably late. On purpose, of course.<br><i>Source: trust me bro.</i>",
+				"lead": true
 			},
 			{
 				"name": "koslie",
 				"subtitle": "US events team lead",
-				"description": "\"Stop capitalizing my name!!\""
+				"description": "\"Stop capitalizing my name!!\"",
+				"lead": true
 			},
 			{
 				"name": "Samurai",
@@ -44,7 +46,8 @@
 			{
 				"name": "Cobra Witch",
 				"subtitle": "Moderation team lead",
-				"description": ""
+				"description": "",
+				"lead": true
 			},
 			{
 				"name": "WBGaming",
@@ -61,7 +64,8 @@
 			{
 				"name": "Eevibow",
 				"subtitle": "Art team lead",
-				"description": ""
+				"description": "",
+				"lead": true
 			},
 			{
 				"name": "WBGaming",
@@ -98,7 +102,8 @@
 			{
 				"name": "WBGaming",
 				"subtitle": "Tech team lead",
-				"description": "Boi of Justice's dad."
+				"description": "Boi of Justice's dad.",
+				"lead": true
 			},
 			{
 				"name": "Julian",

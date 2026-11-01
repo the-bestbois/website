@@ -65,6 +65,11 @@
 	border-radius: 20px;
 }
 
+.team-card-container .card.team-lead {
+	border: 0.5em solid var(--team-color-base);
+	background: linear-gradient(90deg, var(--team-color-base) 0%, transparent 50%);
+}
+
 .team-card-container .card:not(:nth-last-child(1)) {
 	margin-bottom: 2rem;
 }
